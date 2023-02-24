@@ -45,6 +45,9 @@ https://www.jetbrains.com/pycharm/download/#section=windows
 
 4. The section has a screenshot of showing how this program has been compiled using online Editor also called playcode. To replicate the same code and all tests were successfully ran according what is required. The excercise given is to  Must read any number from 0 to 999,999,999,999,999.
 
+5.This can be found on this sub-directory below using this git repository on this master file 
+https://github.com/gcizman/hyperdevsolution/blob/master/javascript-test-code.PNG
+
 
 
 # Section D
