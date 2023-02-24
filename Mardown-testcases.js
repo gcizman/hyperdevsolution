@@ -13,7 +13,7 @@ function sayNumber(num) {
 }
 
 
-/*function test(num, expect) {
+function test(num, expect) {
   const result = sayNumber(num);
   const pass = result === expect;
   console.log(`${pass ? "✓" : "ERROR ====>"} ${num} => ${result}`);
@@ -34,8 +34,8 @@ if (failures) {
 } else {
   console.log("All tests passed");
 }
-*/
-const NUMBER_WORDS = {
+
+/*const NUMBER_WORDS = {
     0: "Zero",
     1: "One",
     2: "Two",
@@ -106,3 +106,4 @@ console.log(numberToText(10000));    // "Ten Thousand"
 console.log(numberToText(100000));   // "One Hundred Thousand"
 console.log(numberToText(1000000));  // "One Million"
 console.log(numberToText(10000000)); // "Ten Million"
+*/
