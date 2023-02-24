@@ -39,9 +39,11 @@ https://www.jetbrains.com/pycharm/download/#section=windows
 
 1. I have chosen option 1 as a prefered choice of using Javascript to solve "Say the Number" problem.
 
-2. This section uses an Online Editor called "https://edabit.com/challenge/" to compile and checks for test cases used from the code.
+2. This section uses an Online Editor called "https://edabit.com/challenge/4E9gTrRWErpTCA2FQ" to compile and checks for test cases used from the code.
 
-3. Once all tests pass, the editor will check all these tests and give a compile message as either right or wrong.  
+3. Once all tests pass, the editor will check all these tests and give a compile message as either right or wrong. 
+
+4. The section has a screenshot of showing how this program has been compiled using online Editor also called playcode. To replicate the same code and all tests were successfully ran according what is required. The excercise given is to  Must read any number from 0 to 999,999,999,999,999.
 
 
 
@@ -50,6 +52,6 @@ https://www.jetbrains.com/pycharm/download/#section=windows
 1. Below is the link for the loom video about the following question asked from this assessment
 2. Experience as a developer
 3. Experience as a mentor
-4. Working remotely to deal with power cut and connectivity issues
+4. Working remotely to deal with power cut and connectivity issues(The video omit this part, i dont struggle with power cut usage because i have 4G pocket router at home its not interrupted).
 5. https://www.loom.com/share/f777a04889fb4e0e9437f10e34e1e056
 
